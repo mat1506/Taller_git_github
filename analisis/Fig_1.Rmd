@@ -2,7 +2,7 @@
 title: "Trabajando con datos en profundidad, creando diagramas estratigráficos"
 author: "Equipo UPWELL"
 date: "28/10/2021"
-output: pdf_document
+output: word_document
 ---
 
 ```{r setup, include=FALSE}
@@ -173,7 +173,7 @@ Para ordenar un dataset como este necesitamos pivotar las columnas que no cumple
 
 -   El conjunto de columnas cuyos nombres son valores y no variables.
 
--   El nombre de la variable cuyos valores forman los nombres de las columnas. Llamaremos a esto key(clave).
+-  1 El nombre de la variable cuyos valores forman los nombres de las columnas. Llamaremos a esto key(clave).
 
 -   El nombre de la variable cuyos valores están repartidos por las celdas.
 
